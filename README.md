@@ -1,6 +1,9 @@
 ### Fine-Tuning-of-XLSR-Wav2Vec2-on-Korean
 
 
+Environment: Colab Pro
+
+
 Data set: https://huggingface.co/datasets/kresnik/zeroth_korean
 
 
